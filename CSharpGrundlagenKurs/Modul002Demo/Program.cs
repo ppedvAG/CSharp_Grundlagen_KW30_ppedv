@@ -179,8 +179,26 @@ namespace Modul002Demo
 
             #endregion
 
+
+            #region Inkrementieren 
+            int x = 100;
+            int y = 100;
+
+            // x = x + 1;
+
+
+            //Hier wird zuerst ausgegeeben und danach um 1 erhöht
+            Console.WriteLine(x++);
+            
+            //Hier wird zuerst erhöht dann Variable ausgegeben 
+            Console.WriteLine(++y);
+            
+            #endregion
+
             Console.ReadLine();
 
+
+            
         }
     }
 }
