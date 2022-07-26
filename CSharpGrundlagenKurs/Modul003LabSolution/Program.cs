@@ -60,7 +60,7 @@ namespace Modul003LabSolution
             Console.WriteLine(ausgabe + "\n\n\n");
 
             #endregion
-
+            #endregion
 
             #region 2. Aufgabe: Mini-Lotto
 

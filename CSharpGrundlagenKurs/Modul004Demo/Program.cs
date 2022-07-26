@@ -91,8 +91,91 @@ namespace Modul004Demo
             Console.WriteLine($"Der Tag ist {dritterTagDerWoche}"); //Dienstag wird ausgegeben
 
             Console.WriteLine(typeof(Wochentage));
+
+
+            //Gebe alle Enum-Einträge aus
+            for (int i = 1; i < 8; i++)
+            {
+                Console.WriteLine($"{i}: {(Wochentage)i}");
+            }
+
+            //Speichern einer Benutzereingabe (Int) als Enumerator
+            //Cast: Int -> Wochentag
+            heutigerTag = (Wochentage)int.Parse(Console.ReadLine());
+            Console.WriteLine($"Dein Lieblingstag ist also {heutigerTag}.");
+
+            //SWITCHs sind eine verkürzte Schreibweise für IF-ELSE-Blöcke. Mögliche Zustände der übergebenen Variablen werden 
+            //in den CASES definiert
+
+            switch(heutigerTag)
+            {
+                case Wochentage.Mo:
+                    Console.WriteLine("Wochenstart");
+                    break;
+                case Wochentage.Di:
+                case Wochentage.Mi:
+                case Wochentage.Do:
+                    Console.WriteLine("normaler Wochentag");
+                    break;
+                case Wochentage.Fr:
+                case Wochentage.Sa:
+                case Wochentage.So:
+                    Console.WriteLine("Wochenende");
+                    break;
+
+                default:
+                    Console.WriteLine("Fehlerhafte Eingabe");
+                    break;
+            }
+
+            //Mittels des WHEN-Stichworts kann auf Eigenschaften des betrachteten Objekts näher eingegangen werden
+            int zahl = -45;
+
+            switch (zahl)
+            {
+                case 5:
+                    Console.WriteLine("a ist 5");
+                    break;
+
+                //1. Prüfung ist zahl ein int - Datentyp
+                //2. Wenn ja, wird z den Wert -45 erhalten 
+                //3. when leitet zweite Condition ein 
+                //4. z < 0? 
+                case int z when z < 0:
+                    Console.WriteLine("a < 0");
+                    break;
+                default:
+                    break; 
+            }
+
+
+            Tischgegenstände alleElektornischeGeräte = Tischgegenstände.Notebook | Tischgegenstände.GameBoy;
+
+            Tischgegenstände alleGegenstände = Tischgegenstände.Blumenvase | Tischgegenstände.Notebook | Tischgegenstände.GameBoy | Tischgegenstände.Zeitschrift | Tischgegenstände.Tasse;
+
+
+            Console.WriteLine("{0} includes {1}: {2}",
+                        alleElektornischeGeräte, alleElektornischeGeräte, alleElektornischeGeräte.HasFlag(alleElektornischeGeräte));
+
+            foreach (Tischgegenstände currentGegenstand in Enum.GetValues(typeof(Tischgegenstände)))
+            {
+                if (alleElektornischeGeräte.HasFlag(currentGegenstand))
+                    Console.WriteLine($"{currentGegenstand} befindet sich bei den elektronischen Geräten");
+            }
         }
     }
 
-    enum Wochentage { Mo=1, Di, Mi, Do, Fr, Sa, So }
+    public enum Wochentage { Mo=1, Di, Mi, Do, Fr, Sa, So }
+
+
+    [Flags]
+    public enum Tischgegenstände
+    {
+        None = 0,
+        Blumenvase = 1,
+        Notebook = 2,
+        GameBoy = 4,
+        Zeitschrift = 8,
+        Tasse = 16
+    }
 }
