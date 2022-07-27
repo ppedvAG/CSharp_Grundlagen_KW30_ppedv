@@ -107,7 +107,7 @@ namespace Modul002Demo
 
             //früher Convert 
             int zahl1 = Convert.ToInt32(Console.ReadLine());
-
+            string zahlAlsString = zahl1.ToString();
             //heute int.Parse + int.TryParse 
             zahl1 = int.Parse(Console.ReadLine());
 
@@ -161,16 +161,20 @@ namespace Modul002Demo
 
             int? nullableValue = null;
 
+            nullableValue = 123;
             if (nullableValue.HasValue)
             {
                 //cool ich habe wirklich einen Wert und kann damit war sinniges anstellen
 
+                //Value Property greifen wir auf Wert zu
                 Console.WriteLine(nullableValue.Value);
             }
 
 
             string nullableString = null;
+
             string leererString = "";
+            leererString = string.Empty;
 
             if (!string.IsNullOrEmpty(leererString) && !string.IsNullOrEmpty(nullableString))
             {

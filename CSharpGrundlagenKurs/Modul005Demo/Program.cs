@@ -44,9 +44,10 @@ namespace Modul005Demo
             Altern(alterPersonA);
 
             Altern(ref alterPersonB);
+            SetzeAlter(out alterPersonB);
+            Console.WriteLine(alterPersonA); //22
+            Console.WriteLine(alterPersonB); //23
 
-            Console.WriteLine(alterPersonA);
-            Console.WriteLine(alterPersonB);
         }
 
 
@@ -100,10 +101,10 @@ namespace Modul005Demo
             return a - b - c - d;
         }
 
-        static int? Sub(int? a, int? b, int? c=null, int? d=null)
-        {
-            return a.Value + b.Value + c.Value + d.Value;
-        }
+        //static int? Sub(int? a, int? b, int? c=null, int? d=null)
+        //{
+        //    return a.Value + b.Value + c.Value + d.Value;
+        //}
 
         static int AddiereUndSubtrahiere(int a, int b, out int different)
         {
@@ -125,6 +126,11 @@ namespace Modul005Demo
         static void Altern(ref int alter)
         {
              alter++;
+        }
+
+        static void SetzeAlter(out int alter)
+        {
+            alter = 35;
         }
 
     }

@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DemoModul006Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DemoModul006Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DemoModul006Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoModul006Lib/1.0.0": {
+      "type": "project",
+      "path": "../DemoModul006Lib/DemoModul006Lib.csproj",
+      "msbuildProject": "../DemoModul006Lib/DemoModul006Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DemoModul006Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kw4\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Grundlagen_KW30_ppedv\\CSharpGrundlagenKurs\\DemoModul006\\DemoModul006.csproj",
+      "projectName": "DemoModul006",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_Grundlagen_KW30_ppedv\\CSharpGrundlagenKurs\\DemoModul006\\DemoModul006.csproj",
+      "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
+      "outputPath": "C:\\Aktueller Kurs\\CSharp_Grundlagen_KW30_ppedv\\CSharpGrundlagenKurs\\DemoModul006\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kw4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Aktueller Kurs\\CSharp_Grundlagen_KW30_ppedv\\CSharpGrundlagenKurs\\DemoModul006Lib\\DemoModul006Lib.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Grundlagen_KW30_ppedv\\CSharpGrundlagenKurs\\DemoModul006Lib\\DemoModul006Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.16, 5.0.16]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.4.22252.9\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

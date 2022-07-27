@@ -80,6 +80,12 @@ namespace Modul004Demo
 
             //Enums sind spezialisierte selbst-definierte Datentypen mit festgelegten möglichen Zuständen.
             ///Dabei ist jeder Zustand an einen Integer-Wert gekoppelt, wodurch eine explizite Umwandlung (Cast) möglich ist. (vgl. Datentyp-Definition unten)
+            ///
+            string[] wochentagArray = new string[7];
+            wochentagArray[0] = "Montag";
+            wochentagArray[1] = "Dienstag";
+
+            //Bessere Variante als bei Arrays
             Wochentage heutigerTag = Wochentage.Di;
 
             Console.WriteLine($"Der Tag ist {heutigerTag}"); //Dienstag wird ausgegeben
@@ -168,6 +174,8 @@ namespace Modul004Demo
     public enum Wochentage { Mo=1, Di, Mi, Do, Fr, Sa, So }
 
 
+
+    //https://docs.microsoft.com/de-de/dotnet/api/system.flagsattribute?view=net-6.0
     [Flags]
     public enum Tischgegenstände
     {
