@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\bin\Debug\net5.0\ModulDemo007.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\bin\Debug\net5.0\ModulDemo007.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\bin\Debug\net5.0\ModulDemo007.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\bin\Debug\net5.0\ModulDemo007.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\bin\Debug\net5.0\ModulDemo007.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\bin\Debug\net5.0\ModulDemo007.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\refint\ModulDemo007.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ModulDemo007.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\ModulDemo007\obj\Debug\net5.0\ref\ModulDemo007.dll

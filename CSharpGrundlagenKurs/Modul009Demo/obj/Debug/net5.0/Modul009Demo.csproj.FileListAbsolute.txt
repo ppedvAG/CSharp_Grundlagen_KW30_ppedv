@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\bin\Debug\net5.0\Modul009Demo.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\bin\Debug\net5.0\Modul009Demo.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\bin\Debug\net5.0\Modul009Demo.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\bin\Debug\net5.0\Modul009Demo.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\bin\Debug\net5.0\Modul009Demo.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\bin\Debug\net5.0\Modul009Demo.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\refint\Modul009Demo.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\Modul009Demo.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul009Demo\obj\Debug\net5.0\ref\Modul009Demo.dll

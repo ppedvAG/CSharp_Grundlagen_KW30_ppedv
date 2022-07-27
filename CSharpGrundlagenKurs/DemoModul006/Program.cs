@@ -71,14 +71,14 @@ namespace DemoModul006
         private DateTime geburtstdatum;
         private double gewicht;
         private double hoehe;
-        
+
         #endregion
 
         #region Properties
         //private string name; 
 
         //Properties können verwendet werden um Variablen auszulesen oder zu setzen
-        //Ausgeschriebene Schreibweise
+        # region Ausgeschriebene Schreibweise
         public double Gewicht
         {
             //Schreiben
@@ -98,20 +98,17 @@ namespace DemoModul006
                 return gewicht;
             }
         }
+        #endregion
 
-        //Kurzschreibweise, wenn nur gelesen und zugewiesen wird und keine Validierung verwendet werden muss
+        #region Kurzschreibweise, wenn nur gelesen und zugewiesen wird und keine Validierung verwendet werden muss
         public DateTime Geburtsdatum 
         { 
             get => geburtstdatum; 
             set => geburtstdatum = value; 
         }
+        #endregion
 
-        public int AlterInJahren
-        {
-            get { return ((DateTime.Now - this.Geburtsdatum).Days / 365); }
-        }
-
-
+        #region Auto-Property
         //Auto-Property 
         // Der Kompilier legt beim kompilieren eine Member-Variable uns an und verwendet diese intern. (It magic) 
         public string Name { get; set; } = "Vogel"; // Default Zuweisung
@@ -120,14 +117,14 @@ namespace DemoModul006
 
         //In Version 2.0 (Versionierung) 
         public string Lieblingsnahrung { get; set; }
+        #endregion
 
-        // Alter C++ stil der gar nicht mehr gefragt und Vorteile bringt -> eher Nachteile
-        //public void SetGewicht(double gewicht)
-        //{
-        //    this.gewicht = gewicht;
-        //}
-        //public double GetGewicht()
-        //    => gewicht;
+        #region Properties können auch nur ein GET - Modifier verwenden
+        public int AlterInJahren
+        {
+            get { return ((DateTime.Now - this.Geburtsdatum).Days / 365); }
+        }
+        #endregion
         #endregion
 
         #region Konstruktoren
@@ -172,9 +169,6 @@ namespace DemoModul006
         }
 
         #endregion
-
-
-
     }
 
 }
