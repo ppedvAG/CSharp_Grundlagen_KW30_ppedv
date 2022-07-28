@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\bin\Debug\net5.0\Modul010DemoFreizeitpark.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\bin\Debug\net5.0\Modul010DemoFreizeitpark.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\bin\Debug\net5.0\Modul010DemoFreizeitpark.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\bin\Debug\net5.0\Modul010DemoFreizeitpark.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\bin\Debug\net5.0\Modul010DemoFreizeitpark.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\bin\Debug\net5.0\Modul010DemoFreizeitpark.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\refint\Modul010DemoFreizeitpark.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\Modul010DemoFreizeitpark.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\Modul014DemoFreizeitpark\obj\Debug\net5.0\ref\Modul010DemoFreizeitpark.dll
