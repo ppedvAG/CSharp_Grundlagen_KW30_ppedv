@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace Modul11Demo
@@ -88,8 +89,18 @@ namespace Modul11Demo
 
             #endregion
 
+            #region Hashtable
+            Hashtable hashtable = new();
+
+            hashtable.Add("123", DateTime.Now);
+            hashtable.Add(DateTime.Now, "123");
+            hashtable.Add(12345, 1231231);
+
+            
+            #endregion
+
         }
 
-        
+
     }
 }

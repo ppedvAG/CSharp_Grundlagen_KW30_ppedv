@@ -91,7 +91,7 @@ namespace Modul11Demo_DictionaryUseCase
 
                     KeyValuePair<Guid, Club> selectedClub = championsLeagueTeilnehmer.ElementAt(index);
                     championsLeagueTeilnehmer.Remove(selectedClub.Key);
-
+                    
                     allAvailable.Add(selectedClub);
                 }
                 else if (keyInfoMenue.Key == ConsoleKey.D3)

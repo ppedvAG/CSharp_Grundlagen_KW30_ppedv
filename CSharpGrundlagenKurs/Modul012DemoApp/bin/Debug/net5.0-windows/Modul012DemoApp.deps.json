@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Modul012DemoApp/1.0.0": {
+        "dependencies": {
+          "Modul012DemoLib": "1.0.0"
+        },
+        "runtime": {
+          "Modul012DemoApp.dll": {}
+        }
+      },
+      "Modul012DemoLib/1.0.0": {
+        "runtime": {
+          "Modul012DemoLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul012DemoApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modul012DemoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
