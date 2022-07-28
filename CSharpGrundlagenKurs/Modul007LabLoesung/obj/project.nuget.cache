@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QHvj1uoOPPc/Y1jPqVhI50lPoo15Cy+9MC+2GPwuIbv3A4o18P8zH1dO9MmrkZDaMRy/O0k841zA1dDjeMv2RA==",
+  "dgSpecHash": "U7QDmSJeK0EEKD6F+nO28h88VOmus1lu/29+bnyNkEQLD+Jnr44VXn/1Uql587a3WxotAvGl/YLDgIncHvMSIw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundlagen_KW30_ppedv\\CSharpGrundlagenKurs\\Modul007LabLoesung\\Modul007LabLoesung.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
