@@ -21,6 +21,8 @@ namespace Modul10DependencyInversionPattern
 
             IServiceCollection collection = new ServiceCollection();
 
+            //var collection1 = new ServiceCollection();
+
             collection.AddSingleton<ICar, TestCar>(); //Von TestCar wird eine Instanz aufgebaut 
 
             //Initialisierungphase ist beendet
