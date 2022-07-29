@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\bin\Debug\net5.0\WiederholungTag2.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\bin\Debug\net5.0\WiederholungTag2.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\bin\Debug\net5.0\WiederholungTag2.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\bin\Debug\net5.0\WiederholungTag2.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\bin\Debug\net5.0\WiederholungTag2.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\bin\Debug\net5.0\WiederholungTag2.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\refint\WiederholungTag2.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\WiederholungTag2.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\WiederholungTag2\obj\Debug\net5.0\ref\WiederholungTag2.dll

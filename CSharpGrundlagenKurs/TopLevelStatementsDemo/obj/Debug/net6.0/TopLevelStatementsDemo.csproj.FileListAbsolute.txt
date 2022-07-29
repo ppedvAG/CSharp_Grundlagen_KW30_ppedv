@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\bin\Debug\net6.0\TopLevelStatementsDemo.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\bin\Debug\net6.0\TopLevelStatementsDemo.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\bin\Debug\net6.0\TopLevelStatementsDemo.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\bin\Debug\net6.0\TopLevelStatementsDemo.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\bin\Debug\net6.0\TopLevelStatementsDemo.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\refint\TopLevelStatementsDemo.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\TopLevelStatementsDemo.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW30_ppedv\CSharpGrundlagenKurs\TopLevelStatementsDemo\obj\Debug\net6.0\ref\TopLevelStatementsDemo.dll

@@ -101,10 +101,10 @@ namespace Modul005Demo
             return a - b - c - d;
         }
 
-        //static int? Sub(int? a, int? b, int? c=null, int? d=null)
-        //{
-        //    return a.Value + b.Value + c.Value + d.Value;
-        //}
+        static int? Sub(int? a, int? b, int? c = null, int? d = null)
+        {
+            return a.Value + b.Value + c.Value + d.Value;
+        }
 
         static int AddiereUndSubtrahiere(int a, int b, out int different)
         {
